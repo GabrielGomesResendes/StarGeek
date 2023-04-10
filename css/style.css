@@ -1,0 +1,51 @@
+        /*resert css para tirar todas as margens dos elementos*/
+        *{
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+        body{
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 20px;
+            background: rgb(0,21,36);
+background: linear-gradient(90deg, rgba(0,21,36,1) 0%, rgba(9,62,121,1) 20%, rgba(0,212,255,1) 50%, rgba(0,56,77,1) 80%, rgba(0,21,36,1) 100%);
+        }
+        /*Estilização do header-cabeçalho*/
+        .cabecalho {
+            background-color: blue;
+            display: flex;
+            justify-content:space-between ;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+        .cabecalho > img{
+            height: 60px;
+        }
+        .menu{
+            display: flex;
+        }
+        .menu > li{
+            height: 60px;
+            display: flex;
+            align-items: center;
+        }
+        .menu > li > a {
+            color: white;
+            text-decoration: none;
+            text-shadow: 2px 2px black;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        .menu >li:hover{
+            background-color: rgb(0, 0, 40);
+        }
+        .menu > li > a {
+            color: white;
+            text-decoration: none;
+            text-shadow: 2px 2px black;
+            padding-left: 10px;
+            padding-right: 10px;
+            font-weight: 600;
+        }
+      
+        

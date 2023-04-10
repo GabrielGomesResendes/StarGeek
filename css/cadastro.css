@@ -1,0 +1,54 @@
+body{
+    background-image: url(/img/logo.png);
+    background-repeat: no-repeat;
+    background: rgb(0,21,36);
+background: linear-gradient(90deg, rgba(0,21,36,1) 0%, rgba(9,62,121,1) 20%, rgba(0,212,255,1) 50%, rgba(0,56,77,1) 80%, rgba(0,21,36,1) 100%);
+}
+.div{
+    margin: 0 auto;
+    width: 600px;
+    height: 400px;
+    text-align: center;
+    background-image: linear-gradient(rgb(59, 59, 209));
+    border-radius: 15px;
+}
+.h1{
+    text-align: center;
+    color: aliceblue;
+}
+.usuario{
+    text-align: center;
+    text-align: left;
+    margin: 0 auto;
+    color: aliceblue;
+}
+.senha{
+    text-align: center;
+    background-color: blue(57, 57, 207);
+    text-align: left;
+    margin: 0 auto;
+    color: aliceblue;
+}
+.botao{
+    text-align: center;
+    background-color: rgb(56, 56, 206);
+    padding: 10px;
+    text-decoration: none;
+    color: aliceblue;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgb(55, 55, 205);
+    text-align: eflt;
+    border: 2px solid white;
+}
+img{
+    
+}
+.div{
+    margin: 0 auto;
+    width: 600px;
+    height: 400px;
+    text-align: center;
+    background-image: linear-gradient(45deg,rgb(54, 54, 204),rgb(53, 53, 203),rgb(52, 52, 202));
+    border-radius: 15px;
+    text-align: center;
+}
