@@ -11,27 +11,25 @@ background: linear-gradient(90deg, rgba(0,21,36,1) 0%, rgba(9,62,121,1) 20%, rgb
     text-align: center;
     background-image: linear-gradient(rgb(59, 59, 209));
     border-radius: 15px;
-    text-align: center;
 }
 .h1{
     text-align: center;
     color: aliceblue;
 }
 .usuario{
-    text-align: center;
+    width: 200px;
     text-align: left;
     margin: 0 auto;
     color: aliceblue;
 }
 .senha{
-    text-align: center;
     background-color: blue(57, 57, 207);
+    width: 200px;
     text-align: left;
     margin: 0 auto;
     color: aliceblue;
 }
 .botao{
-    text-align: center;
     background-color: rgb(56, 56, 206);
     padding: 10px;
     text-decoration: none;
@@ -51,8 +49,4 @@ img{
     text-align: center;
     background-image: linear-gradient(45deg,rgb(54, 54, 204),rgb(53, 53, 203),rgb(52, 52, 202));
     border-radius: 15px;
-    text-align: center;
-}
-.div>ul>li{
-    list-style: none;
 }
