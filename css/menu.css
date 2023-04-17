@@ -1,0 +1,66 @@
+.img-filmes{
+    background-color: rgb(0, 0, 0);
+    border-radius: 8px;
+    margin: 10px;
+    box-shadow: 0px 0px 15px black;
+}
+.filmes{
+    justify-content:space-around;
+    display: flex;
+    overflow-x: scroll;
+    padding-left: 800px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.filmes::-webkit-scrollbar{
+    display: none;
+}
+.p-filmes{
+    text-align: center;
+    color: white;
+}
+.img-sabor{
+    border-radius: 8px;
+    margin: 10px;
+    width: 250px;
+}
+.img-sabor:hover{
+    border-radius: 8px;
+    margin: 10px;
+    width: 300px;
+    transition: 500ms;
+    border: solid rgb(0, 251, 255) 10px;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background: rgb(0, 21, 36);
+    background: linear-gradient(90deg, rgba(0, 21, 36, 1) 0%, rgba(9, 62, 121, 1) 20%,
+            rgba(0, 212, 255, 1) 50%, rgba(0, 56, 77, 1) 80%, rgba(0, 21, 36, 1) 100%);
+}
+
+/*Estilização do header-cabeçalho*/
+.cabecalho {
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid black;
+}
+
+.cabecalho>img {
+    height: 60px;
+}
+
+.menu {
+    display: flex;
+}
+.rodape{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    color: white;
+    border: solid black;
+}
