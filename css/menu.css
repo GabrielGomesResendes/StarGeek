@@ -63,4 +63,6 @@ body {
     padding: 10px;
     color: white;
     border: solid black;
+    border-radius: 15px;
+    box-sizing: border-box;
 }

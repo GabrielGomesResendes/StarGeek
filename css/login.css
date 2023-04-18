@@ -14,27 +14,27 @@ background: linear-gradient(90deg, rgba(0,21,36,1) 0%, rgba(9,62,121,1) 20%, rgb
 }
 .h1{
     text-align: center;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 .usuario{
     width: 200px;
     text-align: left;
     margin: 0 auto;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 .senha{
     background-color: blue(57, 57, 207);
     width: 200px;
     text-align: left;
     margin: 0 auto;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 .botao{
     background-color: rgb(56, 56, 206);
     padding: 10px;
     text-decoration: none;
-    color: aliceblue;
-    border-radius: 8px;
+    color: rgb(0, 0, 0);
+    border-radius: 15px;
     box-shadow: 2px 2px 5px rgb(55, 55, 205);
     text-align: eflt;
     border: 2px solid white;

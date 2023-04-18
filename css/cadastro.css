@@ -47,7 +47,7 @@ img{
 .div{
     margin: 0 auto;
     width: 600px;
-    height: 400px;
+    height: 600px;
     text-align: center;
     background-image: linear-gradient(45deg,rgb(54, 54, 204),rgb(53, 53, 203),rgb(52, 52, 202));
     border-radius: 15px;

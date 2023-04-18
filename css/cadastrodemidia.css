@@ -21,6 +21,7 @@ background: linear-gradient(90deg, rgba(0,21,36,1) 0%, rgba(9,62,121,1) 20%, rgb
     text-align: left;
     margin: 0 auto;
     color: aliceblue;
+    text-align: left;
 }
 .senha{
     background-color: blue(57, 57, 207);
@@ -28,6 +29,7 @@ background: linear-gradient(90deg, rgba(0,21,36,1) 0%, rgba(9,62,121,1) 20%, rgb
     text-align: left;
     margin: 0 auto;
     color: aliceblue;
+    text-align: left;
 }
 .botao{
     background-color: rgb(56, 56, 206);
